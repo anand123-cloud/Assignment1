@@ -1,0 +1,211 @@
+{
+  "users": [
+    {
+      "userName": "anand.09@gmail.com",
+      "lastName": "kumar",
+      "userEmail": "anand.09@gmail.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 12345432,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "userAddress": "noida",
+      "userMobile": "9910012900",
+      "id": 1,
+      "accountBalance": 64000
+    },
+    {
+      "userName": "anand.09@gmail.com",
+      "firstName": "anand",
+      "lastName": "kumar",
+      "userEmail": "anand.09@gmail.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 12345432,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "userAddress": "HYd",
+      "userMobile": "9910094399",
+      "id": 2,
+      "accountBalance": 4560000
+    },
+    {
+      "userName": "anand@gmail.com",
+      "firstName": "anand",
+      "lastName": "kumar",
+      "userEmail": "anand@gmail.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 234567887,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "userAddress": "sec-78, noida",
+      "userMobile": "9910094333",
+      "id": 3,
+      "accountBalance": 22400
+    },
+    {
+      "userName": "abc.xyz@gmail.com",
+      "firstName": "abc",
+      "lastName": "xyz",
+      "userMobile": "9910094444",
+      "userAddress": "pune",
+      "userEmail": "abc.xyz@gmail.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 98765345,
+      "accountBalance": 6789045,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "id": 4
+    },
+    {
+      "userName": "kumar.rohan@gmail.com",
+      "firstName": "rohan",
+      "lastName": "kumar",
+      "userMobile": "9911223344",
+      "userAddress": "chennai",
+      "userEmail": "kumar.rohan@gmail.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 12345432,
+      "accountBalance": 4563456,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "id": 5
+    },
+    {
+      "userName": "anand.09@gmail.com",
+      "firstName": "anand",
+      "lastName": "kumar",
+      "userMobile": "9910094399",
+      "userAddress": "HYD",
+      "userEmail": "anand.09@hcl.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 12345432,
+      "accountBalance": 4563456,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "id": 2
+    },
+    {
+      "userName": "anand.09@gmail.com",
+      "firstName": "anand",
+      "lastName": "kumar",
+      "userMobile": "9910094399",
+      "userAddress": "bangalore",
+      "userEmail": "anand.09@hcl.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 12345432,
+      "accountBalance": 4563456,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "id": 2
+    },
+    {
+      "userName": "anand.09@gmail.com",
+      "firstName": "anand",
+      "lastName": "kumar",
+      "userMobile": "9910094399",
+      "userAddress": "Mumbai",
+      "userEmail": "anand.09@hcl.com",
+      "userPassword": "1qaz@Wsx",
+      "accountNumber": 12345432,
+      "accountBalance": 4563456,
+      "accountType": "savings",
+      "accountStatus": "Active",
+      "id": 2
+    }
+  ],
+  "benificiaries": [
+    {
+      "benificiaryName": "friend2",
+      "benificiaryAccountName": "rohit sinha",
+      "bankName": "HDFC",
+      "benificiaryAccountNumber": "2345674567",
+      "benificiaryAccountType": "NRI",
+      "ifsc": "HDFC00010",
+      "id": 2
+    },
+    {
+      "benificiaryName": "benificiary 3",
+      "benificiaryAccountName": "abc xyz",
+      "bankName": "HDFC",
+      "benificiaryAccountNumber": "9910094444",
+      "benificiaryAccountType": "Savings",
+      "ifsc": "",
+      "id": 3
+    },
+    {
+      "benificiaryName": "rohit",
+      "benificiaryAccountName": "Rohit Singh",
+      "bankName": "CITIBank",
+      "benificiaryAccountNumber": "875447658968769",
+      "benificiaryAccountType": "savings",
+      "ifsc": "",
+      "id": 4
+    },
+    {
+      "benificiaryName": " Nitin",
+      "benificiaryAccountName": "Nitin Mishra",
+      "bankName": "SBI",
+      "benificiaryAccountNumber": "123456789098",
+      "benificiaryAccountType": "saving",
+      "ifsc": "",
+      "id": 5
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "transactionDate": "2020-06-11T11:13:06.140Z",
+      "from": "sks",
+      "to": "569809784556",
+      "transactionType": "Credit",
+      "transactionAmount": 1000
+    },
+    {
+      "id": 2,
+      "transactionDate": "2020-06-09T11:13:06.140Z",
+      "from": "abc",
+      "to": "7658769898",
+      "transactionType": "Credit",
+      "transactionAmount": 1111
+    },
+    {
+      "id": 3,
+      "transactionDate": "2020-06-05T11:13:06.140Z",
+      "from": "Dev",
+      "to": "467678789999",
+      "transactionType": "Debit",
+      "transactionAmount": 110
+    },
+    {
+      "id": 4,
+      "transactionDate": "2020-06-02T11:13:06.140Z",
+      "from": "Mishra",
+      "to": "4676787899990",
+      "transactionType": "Credit",
+      "transactionAmount": 1000
+    },
+    {
+      "transactionDate": "2020-06-14T12:16:47.812Z",
+      "from": "anand.09@gmail.com",
+      "to": "9910094444",
+      "transactionType": "Debit",
+      "transactionAmount": "2000",
+      "id": 5
+    },
+    {
+      "transactionDate": "2020-06-14T12:54:26.319Z",
+      "from": "anand.09@gmail.com",
+      "to": "875447658968769",
+      "transactionType": "Debit",
+      "transactionAmount": "1456",
+      "id": 6
+    },
+    {
+      "transactionDate": "2020-06-14T11:25:27.102Z",
+      "from": "anand@gmail.com",
+      "to": "123456789098",
+      "transactionType": "Debit",
+      "transactionAmount": "1000",
+      "id": 7
+    }
+  ]
+}
